@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/optimum-habana/commit/65a8255bfcdf8f216e00f68bda3353af78e8e1c5",
       "git:hexsha": "65a8255bfcdf8f216e00f68bda3353af78e8e1c5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T00:14:33.238877+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/optimum-habana/commit/c0c9ca2687220302e144b7bd34180ab434d2bf22",
