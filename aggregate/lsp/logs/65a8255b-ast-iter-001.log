@@ -1,0 +1,7 @@
+[2026-11-08T00:01:36Z] === AST ITERATION 1 START | repo=huggingface/optimum-habana sha=65a8255b ===
+[2026-11-08T00:01:36Z] [iter=1] PHASE START: ast repo=huggingface/optimum-habana sha=65a8255b
+[2026-11-08T00:01:36Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T00:12:06Z] [iter=1] AST chunks built count=2 triples=5524434
+[2026-11-08T00:12:06Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/65a8255bfcdf8f216e00f68bda3353af78e8e1c5/.complete
+[2026-11-08T00:12:06Z] [iter=1] PHASE END: ast elapsed_s=630 elapsed_min=10.5
+[2026-11-08T00:12:06Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
