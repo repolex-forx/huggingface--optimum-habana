@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "optimum-habana",
+  "versions": [
+    {
+      "commit": "65a8255bfcdf8f216e00f68bda3353af78e8e1c5",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:14:33.239861+00:00"
+    }
+  ]
+}
